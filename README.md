@@ -68,7 +68,7 @@ Current build status
             </tr><tr>
               <td>win_64</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9245&branchName=main">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9245&branchNamehttps://drive.google.com/file/d/1wzt9dtV6pkl2gHRX-A6DPaKnszGH1wwj/view?usp=drivesdk=main">
                   <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/gh-feedstock?branchName=main&jobName=win&configuration=win%20win_64_" alt="variant">
                 </a>
               </td>
